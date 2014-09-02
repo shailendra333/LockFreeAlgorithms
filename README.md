@@ -1,7 +1,9 @@
-LockFreeAlgorithms
+[![Build Status](https://travis-ci.org/begleyalan/LockFreeAlgorithms.svg?branch=master)](https://travis-ci.org/begleyalan/LockFreeAlgorithms)
+
+Writing Concurrent Code with Lock-Free Algorithms
 ==================
 
-Writing Concurrent Code with Lock-Free Algorithms, Martin Thompson, Instil training
+Martin Thompson, Instil training
 
 Backed by many years of hard-won experience, Martin has created a truly inspiring and challenging course for Java and C++ programmers interested in building low-latency, high-throughput systems.
 
